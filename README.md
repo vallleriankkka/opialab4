@@ -24,7 +24,7 @@ A = 10, B = 2, C = 3
    Нет: Калибровка не удалась
 6. Конец
 ### Блок-схема:
-<img width="387" height="577" alt="лаб4дз" src="https://github.com/user-attachments/assets/e78f1aca-149e-45eb-add4-c952eddc6be0" />
+<img width="387" height="577" alt="д4" src="https://github.com/user-attachments/assets/a1aa17a0-6f84-4813-9015-35bf9f32eb8b" />
 
 ## 2. Реализация программы
 ```c
